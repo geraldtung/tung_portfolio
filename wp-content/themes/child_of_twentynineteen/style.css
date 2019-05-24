@@ -1,0 +1,9 @@
+/*
+Theme Name: Custom Inclass theme
+Description: child theme based on Twenty Nineteen 
+Author: Gerald Tung 
+Version: 1.0 
+Template: twentynineteen
+*/ 
+
+@import url('../twentynineteen/style.css');
