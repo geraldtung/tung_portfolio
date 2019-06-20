@@ -15,7 +15,7 @@ get_header();
 	<section id="primary" class="content-area">
 		<main id="main" class="site-main">
 
-		<?php if ( have_posts() ) : ?>
+		<!--<?php if ( have_posts() ) : ?>
 
 			<header class="page-header">
 				<?php
