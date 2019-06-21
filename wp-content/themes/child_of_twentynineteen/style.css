@@ -10,7 +10,7 @@ Template: twentynineteen
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Noto+Sans&display=swap');
 
-.body {
+body {
 	font-family: 'Montserrat', sans-serif;
-font-family: 'Noto Sans', sans-serif;
+font-family: 'Cormorant Garamond', serif;
 }
