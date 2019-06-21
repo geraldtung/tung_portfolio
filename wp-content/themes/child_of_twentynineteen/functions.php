@@ -10,6 +10,7 @@ function my_theme_enqueue_styles() {
         array( $parent_style ),
         wp_get_theme()->get('Version')
     );
+ 
  function wpb_add_google_fonts() {
  	wp_enqueue_style( 'wpb-google-fonts','https://fonts.googleapis.com/css?family=Montserrat|Noto+Sans&display=swap', false ); 
  }
